@@ -1,3 +1,5 @@
+#!/bin/bash
+
 clear
 i=1
 while :
